@@ -17,7 +17,7 @@ const geistMono = Geist_Mono({
 
 export const metadata: Metadata = {
   title: "Next.js authentication",
-  description: "Next.js authentication with Clerk and Firebase Firestore v1",
+  description: "Next.js authentication with Clerk and Firebase Firestore",
 };
 
 export default function RootLayout({
